@@ -4,6 +4,10 @@
     I'm Paulo and welcome to my Github profile!
 </p>
 
+<small>
+This is my new account. I lost the access of my last one "Paulo3678" 
+</small>
+
 <ul>
     <li>💪 Currently, working at Luma Digital</li>
     <li>📚 Nowadays, perfecting my skills for new opportunities</li>
