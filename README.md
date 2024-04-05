@@ -5,7 +5,7 @@
 </p>
 
 <small>
-This is my new account. I lost the access of my last one "Paulo3678" 
+This is my new account. I lost the access of my last one "PauloDev367" 
 </small>
 
 <ul>
@@ -22,11 +22,8 @@ This is my new account. I lost the access of my last one "Paulo3678"
 ## 📊 GitHub Stats
 
 <div align="center">
-    <br>
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo3678&layout=compact&langs_count=7&theme=monokai"/> -->
-    <br><br>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=paulo3678&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PauloDev367&theme=monokai&hide_border=false)<br/>
 </div>
 <br>
 
@@ -40,7 +37,3 @@ This is my new account. I lost the access of my last one "Paulo3678"
 
 </div>
 
-<hr>
-
-### <a href="https://github.com/Paulo3678/Ubuntu_Apps">💻 Apps - Ubuntu tutorial</a> 
-### <a href="https://github.com/Paulo3678/Ubuntu_Config">💻 PHP, Apache, MySQL and Virtual Hosts - Ubuntu tutorial</a>
